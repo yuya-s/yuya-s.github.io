@@ -17,5 +17,5 @@
   /* ホバー時のスタイル */
   summary:hover {
     cursor: pointer; /* カーソルを指マークに */
-    background-color: #EFEFEF;
+    background-color: #f5f5f5;
   }
