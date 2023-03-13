@@ -22,5 +22,6 @@
 
   /* リストの間隔調整 */
   ol#1 li{
-    line-height: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
   }
