@@ -21,7 +21,7 @@
   }
 
   /* リストの間隔調整 */
-  ol#1 li{
+  ol li{
     padding-top: 2em;
     padding-bottom: 2em;
   }
