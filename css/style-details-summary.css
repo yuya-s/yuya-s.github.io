@@ -22,6 +22,6 @@
 
   /* リストの間隔調整 */
   ol li{
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
   }
