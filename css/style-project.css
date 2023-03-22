@@ -1,5 +1,5 @@
 H3.project {
   padding: 0.25em 0.5em;/*上下 左右の余白*/
   background: transparent;/*背景透明に*/
-  border-left: solid 5px #737373;/*左線*/
+  border-left: solid 3px #737373;/*左線*/
 }
