@@ -17,7 +17,7 @@
   /* ホバー時のスタイル */
   summary:hover {
     cursor: pointer; /* カーソルを指マークに */
-    background-color: #f5f5f5;
+    background-color: #f9f9f9;
   }
 
   /* リストの間隔調整 */
